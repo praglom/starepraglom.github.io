@@ -1,5 +1,3 @@
-# praglom.github.io
-
 Cześć
 
 Miło mi, że poświęcasz czas na poznanie mnie bliżej. Na tej stronie postaram się umieścić informacje na temat moich umiejętności z zakresu testowania oprogramowania.
